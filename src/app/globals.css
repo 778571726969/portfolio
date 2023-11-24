@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cont {
+  max-width: 1440px;
+}
+/* styles.css */
